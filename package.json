@@ -1,8 +1,8 @@
 {
-  "homepage": "./",
   "name": "newcold-dashboard",
   "version": "1.0.0",
   "private": true,
+  "homepage": "./",
   "scripts": {
     "start": "serve -s build",
     "build": "react-scripts build",
@@ -17,21 +17,5 @@
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "serve": "latest"
-  },
-  "devDependencies": {
-    "eslint": "^8.32.0",
-    "eslint-plugin-react": "^7.32.2"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
   }
 }
