@@ -4,8 +4,8 @@ import CustomerSpecific247Charts from "./components/CustomerSpecific247Charts";
 import JustifiedUnjustified247Chart from "./components/JustifiedUnjustified247Chart";
 import Monthly247CallsChart from "./components/Monthly247CallsChart";
 import Chart01 from "./components/Chart01";
-import { Card, CardContent } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
+import { Card, CardContent } from "./components/ui/card";
+import { Button } from "./components/ui/button";
 import { UploadCloud } from "lucide-react";
 import { useState } from "react";
 
