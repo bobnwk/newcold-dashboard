@@ -1,5 +1,7 @@
 import { BarChart, Bar, XAxis, YAxis, Tooltip, Legend, CartesianGrid, ResponsiveContainer } from "recharts";
-import { Card, CardContent } from "@/components/ui/card";
+import { Card, CardContent } from "../ui/card";
+import { Button } from "../ui/button";
+
 
 const top10CallersData = [
   { name: "Alicia Nevins", unjustified: 39, justified: 87, customer: "NewCold | WHS Lebanon", percentage: 31 },
