@@ -8,13 +8,16 @@
       "test": "react-scripts test",
       "eject": "react-scripts eject"
     },
-    "dependencies": {
-      "@shadcn/ui": "latest",
-      "lucide-react": "latest",
-      "recharts": "latest",
-      "react": "^18.2.0",
-      "react-dom": "^18.2.0",
-      "react-scripts": "5.0.1"
+"dependencies": {
+  "@shadcn/ui": "latest",
+  "lucide-react": "latest",
+  "recharts": "latest",
+  "react": "^18.2.0",
+  "react-dom": "^18.2.0",
+  "react-scripts": "5.0.1",
+  "serve": "latest"
+}
+
     },
     "devDependencies": {
       "eslint": "^8.32.0",
